@@ -47,7 +47,7 @@
     <div class="gutter-wrapper">
         <div class="page-topnav" style="height: 5px;">
             <div class="float">
-                <a class="btn-info-plug-in" href="https://support.arcadier.com/hc/en-us/articles/360033980513" target="_blank" >How to use this Plug-In?</a>
+                <a class="btn-info-plug-in" href="https://arcadier.zendesk.com/hc/en-us/articles/360030477433" target="_blank" >How to use this Plug-In?</a>
             </div>
         </div>
 
